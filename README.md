@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**YanisCodes/YanisCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Tool Builder | Specialized in Flutter (Mobile) & Python (Desktop)
 
-Here are some ideas to get you started:
+I am a passionate developer focused on building smart productivity tools and high-performance applications. I enjoy bridging the gap between complex logic and minimalist, user-centric design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technical Stack
+
+| 📱 Mobile Development | 💻 Desktop & Backend | 🛠 Tools & DevOps |
+| :--- | :--- | :--- |
+| **Flutter** (Dart) | **Python** (Automation, Scripting) | Git & GitHub |
+| State Management | **Tkinter / PyQt** (Desktop GUIs) | VS Code & GitHub Copilot |
+| Responsive UI/UX | Logic & Algorithm Optimization | Android SDK & Firebase |
+
+---
+
+## 🏗 Featured Projects
+
+### [StudyGPT](https://github.com/YanisCodes/StudyGPT) 🧠
+*A smart mobile application that dynamically calculates study/break cycles based on user fatigue.*
+- **Tech:** Flutter, Dart, Custom Algorithms.
+- **Key Feature:** Real-time focus timer with fatigue-adaptive logic.
+
+---
+
+## 📊 GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=[YanisCodes]&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YanisCodes]&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email:** yanibusinesspro@gmail.com
+
+---
+*"Code is the tool, impact is the goal."*

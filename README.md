@@ -25,12 +25,6 @@ I am a passionate developer focused on building smart productivity tools and hig
 
 ---
 
-## 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=[YanisCodes]&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YanisCodes]&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📫 Let's Connect
 
 - 📧 **Email:** yanibusinesspro@gmail.com

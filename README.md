@@ -11,7 +11,7 @@ I am a passionate developer focused on building smart productivity tools and hig
 | 📱 Mobile Development | 💻 Desktop & Backend | 🛠 Tools & DevOps |
 | :--- | :--- | :--- |
 | **Flutter** (Dart) | **Python** (Automation, Scripting) | Git & GitHub |
-| State Management | **Tkinter / PyQt** (Desktop GUIs) | Docker & Git |
+| State Management | **Tkinter / PyQt** (Desktop GUIs) | Docker & Kubernetes|
 | Responsive UI/UX | Logic & Algorithm Optimization | Android SDK & Firebase |
 
 ---
